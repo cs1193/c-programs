@@ -1,7 +1,22 @@
 C Programs
 =====================
 
+This repository for practicing C Programs
 
- This is repository for practicing C Based Programs
+----------
 
- ----------
+Compiling a C Program
+
+    $ gcc example.c -o example
+
+Executing a C Program
+
+    $ ./example
+
+----------
+
+Order of Execution
+
+> **PEMDAS**  Parentheses Exponents Multiplication Division Addition Subtraction 
+
+
